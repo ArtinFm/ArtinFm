@@ -19,4 +19,4 @@ Student programmer interested in software development and problem-solving.
 ### 📫 Contact
 - GitHub: @ArtinFm
 - Email: artinmevaloo@gmail.com
-- Telegram: @Artinqz
+- Telegram: @qArtinfz
